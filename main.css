@@ -41,7 +41,7 @@ h2 {
 #quote {
   margin-left: auto;
   margin-right: auto;
-  width: 500px;
+  max-width: 500px;
   display: inline-block;
 }
 footer h2 {
